@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone creates an exact copy (a clone) of remote repository onto your own machine.
