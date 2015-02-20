@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote is for updating your local repository to the latest version of the original version of the project.
