@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an alternate version of a repository. They are usually created to add a new feature without changing the original until the new feature is completed at which point it may be merged into the master branch.
